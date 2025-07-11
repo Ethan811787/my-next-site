@@ -5,6 +5,7 @@ export default function handler(req: NextApiRequest, res: NextApiResponse) {
     const { name, email, message } = req.body;
 
     // You can add logic here, e.g., save data, send email, etc.
+    console.log("Received contact form:", req.body);
 
     return res.status(200).json({ message: "Message received!" });
   } else {

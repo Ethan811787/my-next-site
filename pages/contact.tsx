@@ -29,7 +29,7 @@ export default function ContactPage() {
       } else {
         alert("Failed to send message.");
       }
-    } catch (error) {
+    } catch {
       alert("An error occurred. Please try again.");
     }
   };

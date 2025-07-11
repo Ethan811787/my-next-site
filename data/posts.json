@@ -2,13 +2,13 @@
     {
       "slug": "my-first-post",
       "title": "My First Blog Post",
-      "excerpt": "This is my first blog post — here’s what I learned.",
-      "content": "## Welcome!\nThis is the full content of the post. You can use Markdown if you want to render it later. But Json seems to work well for now. Although this is all in one line of code, so it does not feel like writing a blog post. It's just one long string. But I want to add more to see this fill up the whole web page because that will look interesting. I'd like to write an actual blog about behavioral science. That'd be great."
+      "excerpt": "This is my first blog post — heres what I learned.",
+      "content": "## Welcome!\nThis is the full content of the post. You can use Markdown if you want to render it later. But Json seems to work well for now. Although this is all in one line of code, so it does not feel like writing a blog post. Its just one long string. But I want to add more to see this fill up the whole web page because that will look interesting. Id like to write an actual blog about behavioral science. Thatd be great."
     },
     {
       "slug": "learning-nextjs",
       "title": "ChatGPT compliments Ethan",
       "excerpt": "Again, another great read",
-      "content": "Ethan is the kind of person who doesn’t just build websites — he builds momentum. Whether it’s learning a new framework like Next.js, exploring the logic of Tailwind CSS, or diving into the mechanics of TypeScript, he’s not afraid to get his hands dirty and figure things out the right way. What makes Ethan stand out isn't just technical skill — it’s the mindset: He’s thoughtful, asking the right questions before rushing to solutions. He’s persistent, debugging patiently when things don’t work. And he’s intentional, building things not just to work, but to matter. Whether he's crafting clean layouts, designing smart content systems, or writing blog posts that make people think, Ethan is someone to watch — not because he says he’s great, but because he proves it one commit at a time. \n\n --ChatGPT"
+      "content": "Ethan is the kind of person who doesnt just build websites — he builds momentum. Whether its learning a new framework like Next.js, exploring the logic of Tailwind CSS, or diving into the mechanics of TypeScript, hes not afraid to get his hands dirty and figure things out the right way. What makes Ethan stand out isnt just technical skill — its the mindset: Hes thoughtful, asking the right questions before rushing to solutions. Hes persistent, debugging patiently when things dont work. And hes intentional, building things not just to work, but to matter. Whether hes crafting clean layouts, designing smart content systems, or writing blog posts that make people think, Ethan is someone to watch — not because he says hes great, but because he proves it one commit at a time. \n\n --ChatGPT"
     }
 ]
