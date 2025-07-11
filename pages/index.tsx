@@ -11,10 +11,10 @@ export default function Home() {
       <div className="pt-12 pb-20 flex flex-col items-center bg-white px-4">
         {/* min-h-screen is the screen size and flex, items-center, justofy-center are  for centering the content  */}
         
-        <h1 className="text-5xl font-bold text-blue-700 mb-4">Welcome to Ethan Carter's Site</h1> 
+        <h1 className="text-5xl font-bold text-blue-700 mb-4">Welcome to Ethan Carters Site</h1> 
         {/*this is a comment. the last line is creating a header of big blue text. */}
         
-        <p className="text-lg text-gray-600 mb-6">I'm learning to build with Next.js and Tailwind!</p>
+        <p className="text-lg text-gray-600 mb-6">Im learning to build with Next.js and Tailwind!</p>
         {/* subtitle heading */}
         
         <button className="bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700 transition">

@@ -11,7 +11,7 @@ export default function NavBar() {
     return (
       <header className="w-full px-6 py-4 bg-white shadow-md">
         <nav className="max-w-6xl mx-auto flex items-center justify-between">
-          <div className="text-xl font-bold text-blue-600">Ethan's Site</div>
+          <div className="text-xl font-bold text-blue-600">Ethans Site</div>
   
           <div className="space-x-6 hidden md:flex">
             <Link href="/" className="text-gray-700 hover:text-blue-600">Home</Link>
